@@ -28,12 +28,7 @@ Summary: When you select a country on the map (bottom left) the line chart above
 Tableau Top Salesperson by Region 
 
 Summary: A dashboard to show each regions', west, central and east, salesperson and how they're doing and the amount of profit that they bring in. The horizontal bar chart below shows each region's total product revenue and units sold. 
-
-
-
-Tableau - World Health Trend 
-
-Shows a historgram in the form of circles/bubbles of each country's population size, birth rate and life expectancy over time. 
+ 
 
 Power BI - Superstore (USA)
 
@@ -44,8 +39,22 @@ Power BI - Sales Report
 Summary: A dynamic dashboard complete with KPIs (Key Performance Indicators) to show the quantity of of products sold based on the year that you select from the drop down bar located on the top left corner. Charts below also show the revenue amount of from each customer category.  
 
 
+<img width="1440" alt="Tableau USA unemployment 2005 to 2015" src="https://user-images.githubusercontent.com/108837409/216750616-9db5ad0e-c0c5-4d11-9f9e-a2863112cdba.png">
+
+
+<img width="1792" alt="Department Store X (USA)" src="https://user-images.githubusercontent.com/108837409/216750625-97a02119-cf61-460f-81d4-c8909c7d95eb.png">
+
+
+<img width="1792" alt="Worldwide CO2 per capita emissions (metric ton)" src="https://user-images.githubusercontent.com/108837409/216750641-07415ba1-f623-4bf7-aa17-84cc309376c7.png">
+
+
+<img width="1792" alt="Tableau Top Salesperson By Region" src="https://user-images.githubusercontent.com/108837409/216750646-99a5870e-8df8-4c1e-8d75-832d766ea623.png">
+
+
+![Power BI superstore](https://user-images.githubusercontent.com/108837409/216750656-0dbf1cce-ff4d-419e-9f7a-074c0e43dd3f.png)
 
 
 
+![Power BI sales report](https://user-images.githubusercontent.com/108837409/216750671-dfed33e9-485f-4a03-855d-216005820b01.png)
 
 
